@@ -1,0 +1,26 @@
+{
+  "name": "primo-typescript-unit-test",
+  "version": "1.0.0",
+  "description": "Use for answer Pre Interview Form Intern of PRIMO World Co.,Ltd.",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AiSiriRak/primo-typescript-unit-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/AiSiriRak/primo-typescript-unit-test/issues"
+  },
+  "homepage": "https://github.com/AiSiriRak/primo-typescript-unit-test#readme",
+  "devDependencies": {
+    "typescript": "^7.0.2",
+    "vitest": "^5.0.5"
+  }
+}
